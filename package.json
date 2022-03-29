@@ -1,0 +1,23 @@
+{
+  "name": "twinscrolljs",
+  "version": "1.0.0",
+  "description": "Lib for scrolling multiple element scrollbar.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "tsc:ts": "tsc --target es6 --noEmitOnError --removeComments ./twinscroll.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawissac/twinscrolljs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawissac/twinscrolljs/issues"
+  },
+  "homepage": "https://github.com/sawissac/twinscrolljs#readme"
+}
